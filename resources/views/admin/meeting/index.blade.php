@@ -67,7 +67,7 @@
 		</div>
 	</div>
 
-
+	
 
 
 	<!-- Delete Guest Message Modal -->
