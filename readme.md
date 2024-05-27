@@ -1,6 +1,6 @@
 
 ## About Matchup
-
+Matchup is a matrimonial application designed specifically for the Bangladeshi community. The platform facilitates the process of finding a suitable life partner by providing a user-friendly interface and a robust set of features tailored to cultural and social preferences. Our goal is to make the matchmaking process seamless and efficient.
 
 ## Technology Stack
 
